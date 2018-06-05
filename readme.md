@@ -1,3 +1,3 @@
-# Eliza Chat-Bot Program (arrayList Update)
+# Eliza Chat-Bot Program (ArrayList Update)
 
 June 5, 2018
